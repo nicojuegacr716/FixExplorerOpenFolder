@@ -6,7 +6,7 @@ This repository provides a simple fix for the issue in Windows 10 where opening 
 
 ## The Problem
 
-Sometimes Windows opens a new File Explorer window each time you open a folder, cluttering your desktop and making navigation difficult.
+Sometimes Windows opens a new File Explorer window each time you open a folder, or nothing happens, cluttering your desktop and making navigation difficult.
 
 ---
 
